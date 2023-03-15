@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    dockerimagename = "vamc1990/nodeapp"
+    dockerimagename = "vamc1990/docker_project1/nodeapp"
     dockerImage = ""
   }
   
